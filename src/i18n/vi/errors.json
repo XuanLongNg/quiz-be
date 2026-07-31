@@ -1,0 +1,9 @@
+{
+  "INTERNAL_ERROR": "Đã có lỗi xảy ra, vui lòng thử lại sau.",
+  "VALIDATION_FAILED": "Dữ liệu không hợp lệ.",
+  "BAD_REQUEST": "Yêu cầu không hợp lệ.",
+  "UNAUTHORIZED": "Bạn cần đăng nhập để thực hiện thao tác này.",
+  "FORBIDDEN": "Bạn không có quyền thực hiện thao tác này.",
+  "NOT_FOUND": "Không tìm thấy dữ liệu.",
+  "CONFLICT": "Dữ liệu đã tồn tại hoặc đang xung đột."
+}
